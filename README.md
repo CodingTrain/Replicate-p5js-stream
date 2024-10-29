@@ -1,6 +1,6 @@
 # Using Replicate in Node.js: Streaming ML model responses to p5.js
 
-This repository contains an example demonstrating how to interact with a machine learning model hosted by Replicate via Node.js, using a streaming API to send real-time responses to a p5.js sketch. This example is for the [Programming from A to Z](https://github.com/Programming-from-A-to-Z/A2Z-F23) class at ITP, NYU. (Students in the class, contact me for your API key!)
+This repository contains an example demonstrating how to interact with a machine learning model hosted by Replicate via Node.js, using a streaming API to send real-time responses to a p5.js sketch. This example is for the [Programming from A to Z](https://github.com/Programming-from-A-to-Z/A2Z-F24) class at ITP, NYU. (Students in the class, contact me for your API key!)
 
 In this example, the p5.js client receives streamed responses, simulating a "bot" typing effect in real-time.
 
